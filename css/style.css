@@ -5,7 +5,9 @@ html, body {
 
 body {
     position: fixed;
-    background: #ee9ca7;
+    /* background: #3f92f9; */
+    background-image: url("https://s20.postimg.org/j6ui1upsd/blue.jpg");
+    background-size: cover;
     font-family: Consolas;
     zoom: 3;
 }
@@ -147,7 +149,8 @@ body {
 }
 
 .text {
-    color: #8b6a60;
+    /* color: #8b6a60; */
+    color: #ffffff;
     font-weight: 300;
     font-style: italic;
     text-align: center;
