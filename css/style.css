@@ -5,8 +5,8 @@ html, body {
 
 body {
     position: fixed;
-    /* background: #3f92f9; */
-    background-image: url("https://s20.postimg.org/j6ui1upsd/blue.jpg");
+    background: #3f92f9;
+    /* background-image: url("https://s20.postimg.cc/j6ui1upsd/blue.jpg"); */
     background-size: cover;
     font-family: Consolas;
     zoom: 3;
